@@ -1,0 +1,23 @@
+Pliki builda
+cmake-build-*/
+build/
+cmake-build-debug/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+Wykonalne pliki (.exe itp.)
+*.exe
+*.out
+*.o
+*.obj
+
+Pliki IDE (jeśli używasz np. CLion, VSCode)
+.idea/
+.vscode/
+
+Systemowe śmieci
+.DS_Store
+Thumbs.db
